@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Pr
 ## 🎓 Education
 
 🎓 **BSc CSIT Student**  
-*Himalaya Darshan College, Biratnagar (2023 - Present)*  
+ *Himalaya Darshan College, Biratnagar (2022 - Present)*  
 - Actively learning and implementing **Web Development, Algorithms, and System Design**.
 - Working on personal and open-source **MERN stack projects**.
 - Building a strong foundation in **Data Structures and Algorithms (DSA)**.
@@ -49,7 +49,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Pr
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksamrat224&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=ksamrat224&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksamrat224&layout=compact&theme=tokyonight)
 
 ---
@@ -81,5 +80,4 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Pr
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=ksamrat224&icon=0&color=0)
 
