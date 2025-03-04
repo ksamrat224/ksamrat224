@@ -1,6 +1,6 @@
 # Hi there, I'm Samrat Karki! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Problem Solver** currently exploring the **MERN Stack** and competitive programming. Here, you'll find my projects, contributions, and learning journey.
+I'm a tech enthusiast passionate about **Web Development** and **Problem Solver** currently exploring the **MERN Stack** and competitive programming. Here, you'll find my projects, contributions, and learning journey.
 
 ---
 
