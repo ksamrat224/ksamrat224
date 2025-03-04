@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Pr
 
 ## 🎓 Education
 
- **BSc CSIT Student**  
-*Himalaya Darshan College, Biratnagar (2022 - Present)*  
+  **BSc CSIT Student**  
+  *Himalaya Darshan College, Biratnagar (2022 - Present)*  
 - Actively learning and implementing **Web Development, Algorithms, and System Design**.
 - Working on personal and open-source **MERN stack projects**.
 - Building a strong foundation in **Data Structures and Algorithms (DSA)**.
