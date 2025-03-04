@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Pr
 
 ---
 
-## 💼 Experience
+## 🎓 Education
 
 🎓 **BSc CSIT Student**  
 *Himalaya Darshan College, Biratnagar (2023 - Present)*  
@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Pr
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksamrat224&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksamrat224&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=ksamrat224&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksamrat224&layout=compact&theme=tokyonight)
 
 ---
@@ -62,9 +62,9 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Pr
 
 ## 🌐 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ksamrat224)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samrat_k26)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/samrat224)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ksamrat224) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samrat_k26) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/samrat224) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samratkarki225@gmail.com)
 
 ---
@@ -78,13 +78,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Pr
 ## ✍️ Dev Quote
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🚀 Featured Projects
-
-- **Portfolio Website** - [🔗 Link](https://yourportfolio.com) - Built with React.js and Tailwind CSS.
-- **E-commerce App** - [🛍️ GitHub Repo](https://github.com/ksamrat224/e-commerce-app) - Full-stack MERN e-commerce website.
 
 ---
 
