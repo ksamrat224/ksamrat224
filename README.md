@@ -1,17 +1,18 @@
-✨ Hey there, I’m Samrat! 👋
-🚀 Web Dev + Problem Solver | MERN Explorer
+### ✨ Hey there, I’m Samrat! 👋<br>  
+🚀 **Web Dev + Problem Solver** | MERN Explorer<br><br>  
 
-🎓 BSc CSIT @ Himalaya Darshan College
-💡 Passionate about building cool stuff & cracking DSA
+🎓 **BSc CSIT Student** @ *Himalaya Darshan College*<br>  
+💡 Passionate about **building cool stuff** & **cracking DSA**<br><br>  
 
-🛠️ What I Do:
-🔹 Craft MERN-powered web apps
-🔹 Solve tricky coding puzzles
-🔹 Explore new tech & open-source
+### 🛠️ What I Do:<br>  
+🔹 Craft **MERN-powered web apps**<br>  
+🔹 Solve **tricky coding puzzles**<br>  
+🔹 Explore **new tech & open-source**<br><br>  
 
-🌱 Currently leveling up in Full-Stack Dev & Algorithms
+🌱 Currently leveling up in **Full-Stack Dev & Algorithms**<br><br>  
 
-💬 Let’s chat about tech, projects, or just cool ideas!
+💬 Let’s chat about **tech, projects, or just cool ideas!** 🚀  
+
 
 
 ## 🌐 Socials:
