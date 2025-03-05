@@ -1,5 +1,17 @@
-# 💫 About Me:
-# Hi there, I'm Samrat Karki! 👋<br><br>I'm a tech enthusiast passionate about **Web Development** and **Problem Solver** currently exploring the **MERN Stack** and competitive programming. Here, you'll find my projects, contributions, and learning journey.<br><br>---<br><br>## 🎓 Education<br><br>  **BSc CSIT Student**  <br>  *Himalaya Darshan College, Biratnagar (2022 - Present)*  <br>- Actively learning and implementing **Web Development, Algorithms, and System Design**.<br>- Working on personal and open-source **MERN stack projects**.<br>- Building a strong foundation in **Data Structures and Algorithms (DSA)**.<br><br>---<br><br>## 🚀 What I Do<br><br>- Build **scalable full-stack web applications** using **MERN stack**.<br>- Solve **algorithmic problems** and participate in **coding challenges**.<br>- Contribute to **open-source projects** and **collaborate with developers**.<br>- Learn **new technologies** to stay ahead in the tech industry.<br><br>---<br><br>## 🌱 Currently Learning<br><br>- **MERN Stack** (MongoDB, Express.js, React.js, Node.js)<br>- **Advanced algorithms & problem-solving**<br>- **Building scalable full-stack applications**
+✨ Hey there, I’m Samrat! 👋
+🚀 Web Dev + Problem Solver | MERN Explorer
+
+🎓 BSc CSIT @ Himalaya Darshan College
+💡 Passionate about building cool stuff & cracking DSA
+
+🛠️ What I Do:
+🔹 Craft MERN-powered web apps
+🔹 Solve tricky coding puzzles
+🔹 Explore new tech & open-source
+
+🌱 Currently leveling up in Full-Stack Dev & Algorithms
+
+💬 Let’s chat about tech, projects, or just cool ideas!
 
 
 ## 🌐 Socials:
