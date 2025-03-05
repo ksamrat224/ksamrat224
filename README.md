@@ -1,83 +1,21 @@
-# Hi there, I'm Samrat Karki! 👋
+# 💫 About Me:
+# Hi there, I'm Samrat Karki! 👋<br><br>I'm a tech enthusiast passionate about **Web Development** and **Problem Solver** currently exploring the **MERN Stack** and competitive programming. Here, you'll find my projects, contributions, and learning journey.<br><br>---<br><br>## 🎓 Education<br><br>  **BSc CSIT Student**  <br>  *Himalaya Darshan College, Biratnagar (2022 - Present)*  <br>- Actively learning and implementing **Web Development, Algorithms, and System Design**.<br>- Working on personal and open-source **MERN stack projects**.<br>- Building a strong foundation in **Data Structures and Algorithms (DSA)**.<br><br>---<br><br>## 🚀 What I Do<br><br>- Build **scalable full-stack web applications** using **MERN stack**.<br>- Solve **algorithmic problems** and participate in **coding challenges**.<br>- Contribute to **open-source projects** and **collaborate with developers**.<br>- Learn **new technologies** to stay ahead in the tech industry.<br><br>---<br><br>## 🌱 Currently Learning<br><br>- **MERN Stack** (MongoDB, Express.js, React.js, Node.js)<br>- **Advanced algorithms & problem-solving**<br>- **Building scalable full-stack applications**
 
-I'm a tech enthusiast passionate about **Web Development** and **Problem Solver** currently exploring the **MERN Stack** and competitive programming. Here, you'll find my projects, contributions, and learning journey.
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ksamrat224) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samrat_k26) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/samrat224) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samratkarki225@gmail.com) 
 
-## 🎓 Education
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ksamrat224&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ksamrat224&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ksamrat224&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  **BSc CSIT Student**  
-  *Himalaya Darshan College, Biratnagar (2022 - Present)*  
-- Actively learning and implementing **Web Development, Algorithms, and System Design**.
-- Working on personal and open-source **MERN stack projects**.
-- Building a strong foundation in **Data Structures and Algorithms (DSA)**.
-
----
-
-## 🚀 What I Do
-
-- Build **scalable full-stack web applications** using **MERN stack**.
-- Solve **algorithmic problems** and participate in **coding challenges**.
-- Contribute to **open-source projects** and **collaborate with developers**.
-- Learn **new technologies** to stay ahead in the tech industry.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ksamrat224&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ksamrat224&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌱 Currently Learning
-
-- **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
-- **Advanced algorithms & problem-solving**
-- **Building scalable full-stack applications**
-
----
-
-## 🛠 Tech Stack
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksamrat224&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksamrat224&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ksamrat224&theme=radical&margin-w=6&no-bg=true&no-frame=true)
-
----
-
-## 🌐 Connect with Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ksamrat224) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samrat_k26) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/samrat224) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samratkarki225@gmail.com)
-
----
-
-## 🔝 Top Contributed Repo
-
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=ksamrat224&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## ✍️ Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
