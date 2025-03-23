@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Hey there, I’m Samrat! 👋<br>🚀 Web Dev + Problem Solver <br>🎓 BSc CSIT Student @ Himalaya Darshan College<br>💡 Passionate about building cool stuff & cracking DSA<br>🌱 Currently leveling up in Full-Stack Dev & Algorithms<br>💬 Let’s chat about tech, projects, or just cool ideas! 🚀
+✨ Hey there, I’m Samrat! 👋<br>🎓 BSc CSIT Student @ Himalaya Darshan College<br>🌱 Currently leveling up in Full-Stack Dev & Algorithms<br>
 
 
 ## 🌐 Socials:
