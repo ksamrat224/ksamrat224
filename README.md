@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Hey there, I’m Samrat! 👋<br>🎓 BSc CSIT Student @ Himalaya Darshan College<br>🌱 Currently leveling up in Full-Stack Dev & Algorithms(React & Nest.js)<br>
+🎓 BSc CSIT Student @ Himalaya Darshan College<br>🌱 Currently leveling up in Full-Stack Dev & Algorithms(React & Nest.js)<br>
 
 
 ## 🌐 Socials:
