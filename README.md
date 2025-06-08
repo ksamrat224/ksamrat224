@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 BSc CSIT Student(5th semester)<br>🌱 Currently leveling up in Full-Stack Dev & Algorithms(React & Nest.js)<br>
+🎓 BSc CSIT Student<br>🌱 Currently leveling up in React and ReactNative<br>
 
 
 ## 🌐 Socials:
