@@ -12,9 +12,9 @@
 ---
 
 ### Lets connect
-[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/samireey)
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/paudelsamir/)
-[![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1031771611075969034)
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ksamrat224)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samratk225/)
+[![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/samratkarki8746)
 <br clear="left" />
 
 
