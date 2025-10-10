@@ -1,9 +1,38 @@
-# 💫 About Me:
-🎓 BSc CSIT Student<br>🌱 Currently leveling up in React and React Native
+# 👋 Hey, I'm Samrat Karki  
 
+🚀 Passionate about building interactive, minimal, and functional web applications.  
+Currently working on a **Note Taking App** that lets you create, view, update, and delete notes — complete with sidebar navigation and timestamps.  
 
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+---
 
+### 🧠 What I'm Up To  
+- 🔨 Building: A **React-based Note Taking App**  
+- 🌱 Learning: **MERN Stack** + modern front-end patterns  
+- ⚡ Exploring: **React Native**, **Laravel**, and clean UI design  
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Competencies  
+[![My Skills](https://skillicons.dev/icons?i=react,laravel,js,html,css,python,php,mysql,nodejs,express,git,linux)](https://skillicons.dev)  
+[![Tools](https://skillicons.dev/icons?i=vscode,postman,figma,github,arch)](https://skillicons.dev)
+
+---
+
+### 🧩 Featured Project  
+🗒️ **Note Taking App**  
+> “So far so good! We can now create notes, access them through the sidebar, view update dates, and delete them.”  
+Tech Stack → React + Tailwind + LocalStorage  
+
+🔗 [View on GitHub](#) (add your repo link here)
+
+---
+
+### 🌐 Let's Connect  
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/samireey)  
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/paudelsamir/)  
+[![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1031771611075969034)  
+
+---
+
+> 💬 “Code, learn, and build something meaningful every day.”  
+> — Samrat 🚀
