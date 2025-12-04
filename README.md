@@ -1,8 +1,8 @@
 
 
+    just a guy interested in next/nestjs and loves to code casually every day.
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksamrat224&theme=react-dark" alt="Wizard's Graph">
     <br/>
-    just a guy interested in next/nestjs and loves to code casually every day.
 
 ### 💻 Competencies  
 [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nestjs,express,laravel,git,)](https://skillicons.dev)  
