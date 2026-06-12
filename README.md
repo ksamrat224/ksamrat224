@@ -7,7 +7,7 @@
  
 
 ### 💻 Competencies  
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nestjs,express,git,)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nestjs,express,git,rust,solana)](https://skillicons.dev)  
 
 
 
